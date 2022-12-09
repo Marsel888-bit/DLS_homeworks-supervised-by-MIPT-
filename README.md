@@ -1,1 +1,1 @@
-# DLS_homeworks-supervised-by-MIPT-
+# DLS_homeworks_supervised_by_MIPT_
